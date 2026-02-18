@@ -110,6 +110,7 @@ ORDER BY Total_Revenue DESC;
 ```
 
 **Strategic Recommendations**
+
 **Inventory Rationalization:** Immediately review the bottom 10% of products identified in the Margin Leakage Audit (SQL 3). These items are "margin leakers" that should be phased out or re-priced to stop subsidizing losses.
 
 **Furniture Category Deep-Dive:** Conduct a secondary supply chain audit of the Furniture category. High sales volume currently masks critically low margins compared to the Technology and Office Supplies categories.
